@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Coordinate Axis -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4C566A"
+        android:strokeWidth="2"
+        android:pathData="M24,54 L84,54 M54,24 L54,84" />
+    
+    <!-- Smooth Function Curve (Nord8 Frost Ice) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#88C0D0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M28,74 C34,74 38,34 54,34 C70,34 74,74 80,74" />
+    
+    <!-- Function Root / Point Marker (Nord13 Amber) -->
+    <path
+        android:fillColor="#EBCB8B"
+        android:pathData="M54,34 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#8FBCBB"
+        android:pathData="M38,54 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+    <path
+        android:fillColor="#8FBCBB"
+        android:pathData="M70,54 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+</vector>

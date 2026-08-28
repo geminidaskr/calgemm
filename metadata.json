@@ -1,0 +1,6 @@
+{
+  "name": "Precálculo",
+  "description": "Calculadora avanzada de precálculo y estadística básica con procedimiento paso a paso de varianza poblacional (σ²) y muestral (s²), tabla de desviaciones (xi-x̄) y cuadrados, graficador inteligente y tutor IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
